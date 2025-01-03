@@ -62,7 +62,7 @@ const About = () => {
               />
               <AnimatedBody
                 text={
-                  "Java,Python."
+                  "Java,Python,JavaScript,TypeScript."
                 }
               />
             </div>
@@ -78,7 +78,7 @@ const About = () => {
               />
               <AnimatedBody
                 text={
-                  "JavaScript,TypeScript,Next.js,React.js,Express.js,Node.js,Hono,Turborepo,Spring boot. "
+                  "Next.js,React.js,Express.js,Node.js,Hono,Turborepo,Spring boot. "
                 }
               />
             </div>
